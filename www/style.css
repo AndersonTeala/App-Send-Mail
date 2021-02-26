@@ -1,0 +1,16 @@
+body {
+  background-color: #282a36;
+}
+
+.container {
+  color: #fff;
+}
+
+.container button {
+  background: #39d464;
+  font-size: 18px;
+  padding: 10px;
+  border-radius: 12px;
+  border-color: #282a36;
+  color: #282a36;
+}
